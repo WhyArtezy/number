@@ -1,6 +1,6 @@
 from telegram.ext import Updater, MessageHandler, Filters
 
-BOT_TOKEN = "7551442437:AAHjvDbpQsSI9wCkxRR_xUFFilaSy4JdVRY"
+BOT_TOKEN = "apikey_telegram"
 RESULT_FILE = "result.txt"
 
 def generate_variations(number):
